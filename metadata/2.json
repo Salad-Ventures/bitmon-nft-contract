@@ -1,0 +1,11 @@
+{
+    "name": "BitsmonRare",
+    "description": "Bitsmon Rare NFT, 8% drop rate",
+    "image": "https://peach-electric-cow-235.mypinata.cloud/ipfs/QmTZMdXsUKNFZyvzdStie9rPbZksJBvN3wZf2jWRVDJAiQ",
+    "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+    ]
+}

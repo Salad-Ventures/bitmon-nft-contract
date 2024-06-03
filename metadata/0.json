@@ -1,0 +1,11 @@
+{
+    "name": "BitsmonCommon",
+    "description": "Bitsmon Common NFT, 70% drop rate",
+    "image": "https://peach-electric-cow-235.mypinata.cloud/ipfs/QmXa6MNgxTKfvmdypJE5ULPVNQZXp4CnF2p6Gq4wvbMihJ",
+    "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+    ]
+}

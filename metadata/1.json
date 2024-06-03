@@ -1,0 +1,11 @@
+{
+    "name": "BitsmonUncommon",
+    "description": "Bitsmon Uncommon NFT, 20% drop rate",
+    "image": "https://peach-electric-cow-235.mypinata.cloud/ipfs/QmZDiAwbPZBf91WC7Lpcy2UFwgmPXnFRB2cJTXwQAD3znz",
+    "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+    ]
+}
