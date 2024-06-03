@@ -38,7 +38,7 @@ contract BitsmonNFT is ERC1155, Ownable, ReentrancyGuard {
 
     constructor()
         ERC1155(
-            "https://peach-electric-cow-235.mypinata.cloud/ipfs/QmaRT9uhxxWjztfcAo9sKXHry8a6xKQAdV5BxHcD5NqV6v/"
+            "https://peach-electric-cow-235.mypinata.cloud/ipfs/QmZ6MiwBi14kFCYc3qJgUgC5cWnJ9L1kqzBUfWxSeAcsUx/"
         )
         Ownable(msg.sender)
     {}

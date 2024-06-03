@@ -5,7 +5,7 @@ const { beforeEach } = require("mocha");
 
 describe("Bitsmon NFT Test", () => {
     let bitsmonContract;
-    const baseUri = 'https://peach-electric-cow-235.mypinata.cloud/ipfs/QmaRT9uhxxWjztfcAo9sKXHry8a6xKQAdV5BxHcD5NqV6v/';
+    const baseUri = 'https://peach-electric-cow-235.mypinata.cloud/ipfs/QmZ6MiwBi14kFCYc3qJgUgC5cWnJ9L1kqzBUfWxSeAcsUx/';
 
     beforeEach(async () => {
         const [creater, owner, admin, recipient, recipient2] = await ethers.getSigners();
